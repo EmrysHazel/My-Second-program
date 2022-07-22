@@ -12,6 +12,7 @@ if comm1 in ['a' , 'A']:
     print('It is ' + str(today) + ' sire.')
 elif comm1 in ['b', 'B']:
     print("It is", current_time , 'now sire.')
+
     
 
 
@@ -19,7 +20,6 @@ elif comm1 in ['b', 'B']:
 
 
 
-#Output
 
 
 
